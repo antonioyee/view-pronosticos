@@ -1,0 +1,26 @@
+{
+    "name": "view-pronosticos",
+    "version": "1.0.0",
+    "description": "Estadisticas de futbol usando ReactJS",
+    "main": "./build/view-pronosticos.js",
+    "dependencies": {
+        "react": "^0.13.2"
+    },
+    "devDependencies": {
+        "jsx-loader": "*",
+        "react-hot-loader": "^1.2.8",
+        "webpack": "^1.9.10",
+        "webpack-dev-server": "^1.10.1"
+    },
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:antonioyee/estadisticas.git"
+    },
+    "author": "Antonio Yee",
+    "license": "MIT",
+    "homepage": "https://github.com/antonioyee/estadisticas#readme"
+}
